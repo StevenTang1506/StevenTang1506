@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenTang1506
 - 👀 I’m interested in programming, especially Ai and machine learning.
-- 🌱 I’m currently learning Python and Golang
+- 🌱 I’m currently learning Python and C++
 
 
 <!---
